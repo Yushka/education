@@ -23,4 +23,7 @@
     - [ ] [Android architecture book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
 ## В японском языке
 ## В английском языке
+- [ ] Сериал Heroes без субтитров
+- [ ] Игра Tokyo Dark субтитры английские озвучка японская
+- [ ] Прочитать "Атлант расправил плечи" в оригинале
 ## Общее развитие
