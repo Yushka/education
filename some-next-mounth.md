@@ -2,10 +2,7 @@
 ## В программировании и CS 
 - [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
 - [ ] [Введение в дизайн-мышление](https://stepik.org/course/48294/syllabus)
-- [ ] [Введение в kotlin JVM](https://stepik.org/course/5448/syllabus)
-- [ ] [Kotlin](https://stepik.org/course/2852/syllabus)
 - [ ] Мобильное приложение для 1С:ТОИР
-- [ ] Приложение для Shikimori
 - Udemy
     - [ ] [Learn Android O app development](https://www.udemy.com/android-app-development-with-java/learn/v4/overview)
     - [ ] [The Complete Android App Development](https://www.udemy.com/android-tutorial-for-beginners/learn/v4/overview)
