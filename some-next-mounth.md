@@ -1,7 +1,5 @@
 # План на несколько месяцев вперед
 ## В программировании и CS 
-- [ ] [Архитектура андроид приложений](https://www.coursera.org/learn/android-app-architecture)
-- [ ] [Kotlin](https://stepik.org/course/2852/syllabus)
 - [ ] [Введение в дизайн-мышление](https://stepik.org/course/48294/syllabus)
 - [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
 - Udemy
