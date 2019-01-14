@@ -59,3 +59,15 @@
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
   - [ ] Introduction To Digital Coloring
   - [ ] Intro to Perspective
+- [Anatomy and Figure Drawing for Beginners](https://www.udemy.com/anatomy-and-figure-drawing-for-games-and-comics/)
+  - [ ] Creating Your Own Mannequin
+  - [ ] Understanding the Skeleton
+  - [ ] Understanding the Muscles
+  - [ ] Understanding the Muscles :Arms and Legs.
+  - [ ] Putting it All Together
+  - [ ] Let's Face it : Drawing the face.
+  - [ ] Drawing Poses and Gesture
+  - [ ] Drawing Poses and Gesture 2 : Big Action
+  - [ ] Student Q&A (2/28/18)
+  - [ ] Books we can Study : Andrew Loomis "Figure Drawing for all it's Worth"
+  - [ ] More Books we can Study
