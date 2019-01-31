@@ -2,10 +2,6 @@
 (планы очень примерные) 
 ## В программировании и CS
 - [ ] [Architecture components](https://startandroid.ru/ru/courses/architecture-components.html)
-  - [ ] Lifecycle 
-  - [ ] LiveData 
-  - [ ] LiveData. Дополнительные возможности 
-  - [ ] ViewModel 
   - [ ] Room. Основы 
   - [ ] Room. Entity 
   - [ ] Room. Insert, Update, Delete, Transaction 

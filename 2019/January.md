@@ -56,6 +56,20 @@
   - [x] ~~К вашим услугам~~
   - [x] ~~Жизнь в материальном мире~~
   - [x] ~~Приложение 1. Исполнительная среда андроид~~
+- [Architecture components](https://startandroid.ru/ru/courses/architecture-components.html)
+  - [x] ~~Lifecycle~~ 
+  - [x] ~~LiveData~~ 
+  - [x] ~~LiveData. Дополнительные возможности~~
+  - [x] ~~ViewModel~~ 
+- Разные интересные статейки прочитанные
+  - [«Я был очень негативен по отношению к корутинам»: Артём Зиннатуллин об Android-разработке](https://habr.com/ru/company/jugru/blog/437948/)
+  - [Основы внедрения зависимостей](https://habr.com/ru/post/434380/)
+  - [Знакомство с Kotlin для Android за один день](https://nuancesprog.ru/p/1761/)
+  - [Android: Темы и стили](http://developer.alexanderklimov.ru/android/theme.php)
+  - [Kotlin Android Extensions: полное руководство](https://medium.com/nuances-of-programming/kotlin-android-extensions-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-42ad43b029d7)
+  - [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d)
+  - [ViewModel и LiveData: паттерны и антипаттерны](https://habr.com/ru/post/338590/)
+  - [Android LiveData на Kotlin с использованием Retrofit и coroutines](https://habr.com/ru/post/427475/)
 ## В 日本語 (Пока не освою полноценно андроид перевожу в спящий режим)
 
 ## В английском языке
