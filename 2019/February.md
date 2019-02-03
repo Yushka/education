@@ -2,10 +2,10 @@
 (планы очень примерные) 
 ## В программировании и CS
 - [ ] [Architecture components](https://startandroid.ru/ru/courses/architecture-components.html)
-  - [ ] Room. Основы 
-  - [ ] Room. Entity 
-  - [ ] Room. Insert, Update, Delete, Transaction 
-  - [ ] Room. Query 
+  - [x] ~~Room. Основы~~
+  - [x] ~~Room. Entity~~
+  - [x] ~~Room. Insert, Update, Delete, Transaction~~ 
+  - [x] ~~Room. Query~~ 
   - [ ] Room. RxJava 
   - [ ] Room. Запрос из нескольких таблиц. Relation 
   - [ ] Room. Type converter 
