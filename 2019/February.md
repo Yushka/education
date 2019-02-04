@@ -6,8 +6,8 @@
   - [x] ~~Room. Entity~~
   - [x] ~~Room. Insert, Update, Delete, Transaction~~ 
   - [x] ~~Room. Query~~ 
-  - [ ] Room. RxJava 
-  - [ ] Room. Запрос из нескольких таблиц. Relation 
+  - [x] ~~Room. RxJava~~
+  - [x] ~~Room. Запрос из нескольких таблиц. Relation~~ 
   - [ ] Room. Type converter 
   - [ ] Room. Миграция версий базы данных 
   - [ ] Room. Тестирование 
