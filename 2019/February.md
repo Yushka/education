@@ -8,9 +8,9 @@
   - [x] ~~Room. Query~~ 
   - [x] ~~Room. RxJava~~
   - [x] ~~Room. Запрос из нескольких таблиц. Relation~~ 
-  - [ ] Room. Type converter 
-  - [ ] Room. Миграция версий базы данных 
-  - [ ] Room. Тестирование 
+  - [x] ~~Room. Type converter~~
+  - [x] ~~Room. Миграция версий базы данных~~
+  - [x] ~~Room. Тестирование~~
   - [ ] Paging Library. Основы 
   - [ ] Paging Library. PagedList и DataSource. Placeholders. 
   - [ ] Paging Library. LivePagedListBuilder. BoundaryCallback. 
@@ -112,6 +112,8 @@
     - [ ] Visitor
     - [ ] Обсуждение паттернов поведения
   - [ ] Заключение
+- Всякое интересное
+  - [Роман Елизаров — Корутины в Kotlin](https://www.youtube.com/watch?v=rB5Q3y73FTo)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
