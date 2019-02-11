@@ -115,6 +115,7 @@
 - Всякое интересное просмотренное
   - [x] [Роман Елизаров — Корутины в Kotlin](https://www.youtube.com/watch?v=rB5Q3y73FTo)
   - [x] [Пример использования Android DiffUtil](https://startandroid.ru/ru/blog/504-primer-ispolzovanija-android-diffutil.html)
+  - [x] [Подводные камни Java](https://habr.com/ru/post/439642/)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
