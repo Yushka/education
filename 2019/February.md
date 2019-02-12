@@ -13,7 +13,7 @@
   - [x] ~~Room. Тестирование~~
   - [x] ~~Paging Library. Основы~~
   - [x] ~~Paging Library. PagedList и DataSource. Placeholders.~~
-  - [ ] Paging Library. LivePagedListBuilder. BoundaryCallback. 
+  - [x] ~~Paging Library. LivePagedListBuilder. BoundaryCallback.~~
   - [ ] Paging Library. Виды DataSource 
   - [ ] Android Data Binding. Основы 
   - [ ] Android Data Binding. Код в layout. Доступ к View 
