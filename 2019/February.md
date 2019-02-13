@@ -14,7 +14,7 @@
   - [x] ~~Paging Library. Основы~~
   - [x] ~~Paging Library. PagedList и DataSource. Placeholders.~~
   - [x] ~~Paging Library. LivePagedListBuilder. BoundaryCallback.~~
-  - [ ] Paging Library. Виды DataSource 
+  - [x] ~~Paging Library. Виды DataSource~~
   - [ ] Android Data Binding. Основы 
   - [ ] Android Data Binding. Код в layout. Доступ к View 
   - [ ] Android Data Binding. Обработка событий 
@@ -80,6 +80,8 @@
   - [x] [Подводные камни Java](https://habr.com/ru/post/439642/)
   - [x] [Паттерны и антипаттерны корутин в Kotlin](https://habr.com/ru/post/432942/)
   - [x] [Retain внутри, а снаружи ViewModel](https://habr.com/ru/post/439926/)
+  - [x] [Android development tips — Part I](https://medium.com/code-procedure-and-rants/android-development-tips-part-i-8b07420b6e3b)
+  - [x] [How to maximize Android’s UI reusability — 5 common mistakes](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
