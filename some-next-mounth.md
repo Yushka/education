@@ -1,5 +1,13 @@
 # План на несколько месяцев вперед
-## В программировании и CS 
+## В программировании и CS
+- [ ] [Learn Figma - UI/UX Design Essential Training](https://www.udemy.com/learn-figma/)
+  - [ ] Introduction to the Course
+  - [ ] Learning the Figma interface
+  - [ ] Setting up a new project
+  - [ ] Adding and editing content
+  - [ ] Completing the design
+  - [ ] Prototyping, Sharing and Exporting
+  - [ ] Conclusion
 - [ ] [github](https://www.udemy.com/github-ultimate/learn/v4/overview)
   - [ ] The Basics
   - [ ] Advanced: Beyond the Basics
