@@ -15,8 +15,8 @@
   - [x] ~~Paging Library. PagedList и DataSource. Placeholders.~~
   - [x] ~~Paging Library. LivePagedListBuilder. BoundaryCallback.~~
   - [x] ~~Paging Library. Виды DataSource~~
-  - [ ] Android Data Binding. Основы 
-  - [ ] Android Data Binding. Код в layout. Доступ к View 
+  - [x] ~~Android Data Binding. Основы~~
+  - [x] ~~Android Data Binding. Код в layout. Доступ к View~~
   - [ ] Android Data Binding. Обработка событий 
   - [ ] Android Data Binding. Observable поля. Двусторонний биндинг. 
   - [ ] Android Data Binding. Adapter. Conversion. 
@@ -90,6 +90,10 @@
   - [x] [Retain внутри, а снаружи ViewModel](https://habr.com/ru/post/439926/)
   - [x] [Android development tips — Part I](https://medium.com/code-procedure-and-rants/android-development-tips-part-i-8b07420b6e3b)
   - [x] [How to maximize Android’s UI reusability — 5 common mistakes](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f)
+  - [x] [The price of ENUMs (100 Days of Google Dev)](https://www.youtube.com/watch?v=Hzs6OBcvNQE)
+  - [x] [From View To Pixel](https://medium.com/@britt.barak/from-view-to-pixel-5a9b7470f3fd)
+  - [x] [Rendering — Phase By Phase](https://medium.com/@britt.barak/rendering-phase-by-phase-7ea8c9885eb2)
+  - [x] [Measure… Layout… Draw!](https://medium.com/@britt.barak/measure-layout-draw-483c6a4d2fab)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
