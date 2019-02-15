@@ -94,6 +94,8 @@
   - [x] [From View To Pixel](https://medium.com/@britt.barak/from-view-to-pixel-5a9b7470f3fd)
   - [x] [Rendering — Phase By Phase](https://medium.com/@britt.barak/rendering-phase-by-phase-7ea8c9885eb2)
   - [x] [Measure… Layout… Draw!](https://medium.com/@britt.barak/measure-layout-draw-483c6a4d2fab)
+  - [x] [Советы по созданию современного Android-приложения. Лекция Яндекса](https://habr.com/ru/company/yandex/blog/344898/)
+  - [x] [Введение в новый CoordinatorLayout](https://habr.com/ru/post/265119/)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
