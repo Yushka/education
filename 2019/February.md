@@ -96,6 +96,7 @@
   - [x] [Measure… Layout… Draw!](https://medium.com/@britt.barak/measure-layout-draw-483c6a4d2fab)
   - [x] [Советы по созданию современного Android-приложения. Лекция Яндекса](https://habr.com/ru/company/yandex/blog/344898/)
   - [x] [Введение в новый CoordinatorLayout](https://habr.com/ru/post/265119/)
+  - [x] [Guide to app architecture](https://developer.android.com/jetpack/docs/guide)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
