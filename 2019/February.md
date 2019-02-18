@@ -17,10 +17,10 @@
   - [x] ~~Paging Library. Виды DataSource~~
   - [x] ~~Android Data Binding. Основы~~
   - [x] ~~Android Data Binding. Код в layout. Доступ к View~~
-  - [ ] Android Data Binding. Обработка событий 
-  - [ ] Android Data Binding. Observable поля. Двусторонний биндинг. 
-  - [ ] Android Data Binding. Adapter. Conversion. 
-  - [ ] Android Data Binding. Использование с include, ViewStub и RecyclerView. 
+  - [x] ~~Android Data Binding. Обработка событий~~
+  - [x] ~~Android Data Binding. Observable поля. Двусторонний биндинг.~~
+  - [x] ~~Android Data Binding. Adapter. Conversion.~~
+  - [x] ~~Android Data Binding. Использование с include, ViewStub и RecyclerView.~~
   - [ ] Navigation Architecture Component. Введение 
   - [ ] Navigation. Передача данных. Type-safe аргументы. 
   - [ ] Navigation. Параметры навигации 
@@ -104,6 +104,7 @@
   - [x] [Хитрости объектно-ориентированного программирования. Часть 5: Правило бойскаутов](https://medium.com/nuances-of-programming/хитрости-объектно-ориентированного-программирования-часть-5-правило-бойскаутов-5132fbedc46d)
   - [x] [Хитрости объектно-ориентированного программирования. Часть 6 SLAP для функций](https://medium.com/nuances-of-programming/хитрости-объектно-ориентированного-программирования-часть-6-slap-для-функций-743cae7a1ef7)
   - [x] [Android Material Design для начинающих](https://devcolibri.com/course/android-material-design-%d0%b4%d0%bb%d1%8f-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d1%8e%d1%89%d0%b8%d1%85/) - так себе набор видео, старенький и не очень информативный
+  - [x] [CoordinatorLayout.Behavior Basic](https://getpocket.com/a/read/2196697704)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
