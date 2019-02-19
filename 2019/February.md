@@ -21,8 +21,8 @@
   - [x] ~~Android Data Binding. Observable поля. Двусторонний биндинг.~~
   - [x] ~~Android Data Binding. Adapter. Conversion.~~
   - [x] ~~Android Data Binding. Использование с include, ViewStub и RecyclerView.~~
-  - [ ] Navigation Architecture Component. Введение 
-  - [ ] Navigation. Передача данных. Type-safe аргументы. 
+  - [x] ~~Navigation Architecture Component. Введение~~
+  - [x] ~~Navigation. Передача данных. Type-safe аргументы.~~
   - [ ] Navigation. Параметры навигации 
   - [ ] Navigation. NavigationUI. 
   - [ ] Navigation. Вложенный граф. Global Action. Deep Link. 
@@ -44,7 +44,7 @@
     - [x] ~~Как выбирать паттерн проектирования~~
     - [x] ~~Как пользоваться паттерном проектирования~~
   - [ ] Проектирование редактора документов
-    - [ ] Задачи проектирования
+    - [x] ~~Задачи проектирования~~
     - [ ] Структура документа
     - [ ] Форматирование
     - [ ] Оформление пользовательского интерфейса
@@ -116,5 +116,17 @@
 ## Рисование
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
   - [ ] Putting it Together
+    - [x] ~~Draw better 1~~
+    - [x] ~~Draw better 2~~
+    - [ ] Draw better 3
+    - [ ] Draw better 4
+    - [ ] Draw better 5
+    - [ ] Draw better 6
+    - [ ] Draw better 7
+    - [ ] Draw better 8
+    - [ ] Draw better 9
+    - [ ] Draw better 10
+    - [ ] Draw better 11
+    - [ ] Draw better 12
   - [ ] Time to Get Digital
 ## Общее развитие
