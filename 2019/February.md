@@ -23,9 +23,9 @@
   - [x] ~~Android Data Binding. Использование с include, ViewStub и RecyclerView.~~
   - [x] ~~Navigation Architecture Component. Введение~~
   - [x] ~~Navigation. Передача данных. Type-safe аргументы.~~
-  - [ ] Navigation. Параметры навигации 
-  - [ ] Navigation. NavigationUI. 
-  - [ ] Navigation. Вложенный граф. Global Action. Deep Link. 
+  - [x] ~~Navigation. Параметры навигации~~
+  - [x] ~~Navigation. NavigationUI.~~
+  - [x] ~~Navigation. Вложенный граф. Global Action. Deep Link.~~
   - [ ] WorkManager. Введение 
   - [ ] WorkManager. Критерии запуска задачи. 
   - [ ] WorkManager. Последовательность выполнения задач. 
@@ -45,7 +45,7 @@
     - [x] ~~Как пользоваться паттерном проектирования~~
   - [ ] Проектирование редактора документов
     - [x] ~~Задачи проектирования~~
-    - [ ] Структура документа
+    - [x] ~~Структура документа~~
     - [ ] Форматирование
     - [ ] Оформление пользовательского интерфейса
     - [ ] Поддержка нескольких стандартов внешнего облика
@@ -118,7 +118,7 @@
   - [ ] Putting it Together
     - [x] ~~Draw better 1~~
     - [x] ~~Draw better 2~~
-    - [ ] Draw better 3
+    - [x] ~~Draw better 3~~
     - [ ] Draw better 4
     - [ ] Draw better 5
     - [ ] Draw better 6
