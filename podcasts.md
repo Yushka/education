@@ -15,10 +15,10 @@
 - [Радио-Т](https://radio-t.com/)
 - [Философия программирования](https://www.patreon.com/b0noi)
 - [hexlet](https://ru.hexlet.io/blog/categories/podcast)
-- [Мир фантастики](https://www.mirf.ru/category/podcast)
 ## Прочее
 - [hobby talks](http://hobbytalks.org/)
 - [Raw mind](https://www.patreon.com/b0noi)
 - [Вкусные книги](http://blog.golodnyj.ru/)
 - [Диалоги о будущем](http://blog.golodnyj.ru/)
 - [the big beard theory](https://beardycast.com/)
+- [Мир фантастики](https://www.mirf.ru/category/podcast)
