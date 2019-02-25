@@ -76,7 +76,7 @@
     - [ ] Memento
     - [ ] Observer
     - [ ] State
-    - [ ] Strategy
+    - [x] ~~Strategy~~
     - [ ] Template Method
     - [ ] Visitor
     - [ ] Обсуждение паттернов поведения
