@@ -1,6 +1,6 @@
 # Февраль 2019
 ## В программировании и CS
-- [ ] [Architecture components](https://startandroid.ru/ru/courses/architecture-components.html)
+- [x] ~~[Architecture components](https://startandroid.ru/ru/courses/architecture-components.html)~~
   - [x] ~~Room. Основы~~
   - [x] ~~Room. Entity~~
   - [x] ~~Room. Insert, Update, Delete, Transaction~~ 
@@ -31,7 +31,7 @@
   - [x] ~~WorkManager. Передача и получение данных~~
   - [x] ~~Практика. О чем это будет.~~
   - [x] ~~Практика. TodoApp. Список задач.~~
-  - [ ] Практика. TodoApp. Просмотр задачи
+  - [x] ~~Практика. TodoApp. Просмотр задачи~~
 - [ ] Банда четырех - Паттерны проектирования
   - [x] ~~Введение в паттерны проектирования~~
     - [x] ~~Что такое паттерн проектирования~~
@@ -104,6 +104,7 @@
   - [x] [Хитрости объектно-ориентированного программирования. Часть 6 SLAP для функций](https://medium.com/nuances-of-programming/хитрости-объектно-ориентированного-программирования-часть-6-slap-для-функций-743cae7a1ef7)
   - [x] [Android Material Design для начинающих](https://devcolibri.com/course/android-material-design-%d0%b4%d0%bb%d1%8f-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d1%8e%d1%89%d0%b8%d1%85/) - так себе набор видео, старенький и не очень информативный
   - [x] [CoordinatorLayout.Behavior Basic](https://getpocket.com/a/read/2196697704)
+  - [x] [Flutter. Плюсы и минусы](https://habr.com/ru/company/simbirsoft/blog/441766/)
 ## В 日本語 (Пока не освою нормально андроид - перевожу в спящий режим)
 
 ## В английском языке
