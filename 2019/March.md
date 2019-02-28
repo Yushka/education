@@ -1,5 +1,38 @@
 # Март 2019
 ## В программировании и CS
+- [ ] Банда четырех - Паттерны проектирования
+  - [ ] Проектирование редактора документов
+    - [ ] Поддержка нескольких оконных систем
+    - [ ] Операции пользователя
+    - [ ] Проверка правописания и расстановка переносов
+  - [ ] Порождающие паттерны
+    - [ ] Abstract Factory
+    - [ ] Builder
+    - [ ] Factory Method
+    - [ ] Prototype
+    - [ ] Singleton
+    - [ ] Обсуждение порождающих паттернов
+  - [ ] Структурные паттерны
+    - [ ] Adapter
+    - [ ] Bridge
+    - [ ] Facade
+    - [ ] Flyweight
+    - [ ] Proxy
+    - [ ] Обсуждение структурных паттернов
+  - [ ] Паттерны поведения
+    - [ ] Chain of Responsibility
+    - [ ] Command
+    - [ ] Interpreter
+    - [ ] Iterator
+    - [ ] Mediator
+    - [ ] Memento
+    - [ ] Observer
+    - [ ] State
+    - [ ] Template Method
+    - [ ] Visitor
+    - [ ] Обсуждение паттернов поведения
+  - [ ] Заключение
+
 - [ ] [Learn Android O app development](https://www.udemy.com/android-app-development-with-java/learn/v4/overview) Буду смотреть только часть курса, в основном к дизайну относящуюся, а также какие то заинтересовавшие части
   - [ ] Build a WhatsApp Clone and learn to use Cloud Data Storage\
   - [ ] App Design Course Introduction
@@ -24,6 +57,7 @@
   - [ ] White Hat vs. Black Hat Methods of Getting More App Downloads and Revenue
   - [ ] Bonus: How to Build Your App Showcase Website
   - [ ] Your Turn
+
 - [ ] [Learn Figma - UI/UX Design Essential Training](https://www.udemy.com/learn-figma/)
   - [ ] Introduction to the Course
   - [ ] Learning the Figma interface
@@ -32,6 +66,7 @@
   - [ ] Completing the design
   - [ ] Prototyping, Sharing and Exporting
   - [ ] Conclusion
+
 - [ ] [github](https://www.udemy.com/github-ultimate/learn/v4/overview)
   - [ ] The Basics
   - [ ] Advanced: Beyond the Basics
