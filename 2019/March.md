@@ -15,6 +15,7 @@
   - [ ] Структурные паттерны
     - [ ] Adapter
     - [ ] Bridge
+    - [x] ~~Decorator~~
     - [ ] Facade
     - [ ] Flyweight
     - [ ] Proxy
@@ -81,6 +82,9 @@
   - [ ] GitHub Gists
   - [ ] GitHub Organizations
   - [ ] Conclusion
+
+ - Всякое интересное
+ - [x] [Современная MVI-архитектура на базе Kotlin](https://habr.com/ru/company/badoo/blog/429728/) Прикольно, но чтобы разобраться нужно будет заморочиться.
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
@@ -90,7 +94,7 @@
 ## Рисование
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
   - [ ] Putting it Together
-    - [ ] Draw better 6
+    - [x] ~~Draw better 6~~
     - [ ] Draw better 7
     - [ ] Draw better 8
     - [ ] Draw better 9
