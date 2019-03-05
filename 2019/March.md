@@ -3,7 +3,7 @@
 - [ ] Банда четырех - Паттерны проектирования
   - [ ] Проектирование редактора документов
     - [x] ~~Поддержка нескольких оконных систем~~
-    - [ ] Операции пользователя
+    - [x] ~~Операции пользователя~~
     - [ ] Проверка правописания и расстановка переносов
   - [ ] Порождающие паттерны
     - [x] ~~Abstract Factory~~
@@ -14,7 +14,7 @@
     - [ ] Обсуждение порождающих паттернов
   - [ ] Структурные паттерны
     - [ ] Adapter
-    - [ ] Bridge
+    - [x] ~~Bridge~~
     - [x] ~~Decorator~~
     - [ ] Facade
     - [ ] Flyweight
@@ -68,25 +68,11 @@
   - [ ] Prototyping, Sharing and Exporting
   - [ ] Conclusion
 
-- [ ] [github](https://www.udemy.com/github-ultimate/learn/v4/overview)
-  - [ ] The Basics
-  - [ ] Advanced: Beyond the Basics
-  - [ ] Welcome to GitHub
-  - [ ] SSH Authentication
-  - [ ] GitHub Repository
-  - [ ] GitHub Repository Branches
-  - [ ] GitHub Tags and Releases
-  - [ ] Comparing Differences
-  - [ ] Social Coding
-  - [ ] GitHub Issues
-  - [ ] GitHub Gists
-  - [ ] GitHub Organizations
-  - [ ] Conclusion
-
  - Всякое интересное
  - [x] [Современная MVI-архитектура на базе Kotlin](https://habr.com/ru/company/badoo/blog/429728/) Прикольно, но чтобы разобраться нужно будет заморочиться.
  - [x] [Вечнозеленая фуксия. Изучаем операционку, которую Google готовит на смену Android](https://xakep.ru/2019/01/09/google-fuchsia/)
  - [x] [View Model Creation in Android — Android Architecture Components & Kotlin](https://proandroiddev.com/view-model-creation-in-android-android-architecture-components-kotlin-ce9f6b93a46b) - действительно интересная статья
+ - [x] [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
