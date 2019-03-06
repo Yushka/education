@@ -92,4 +92,3 @@
     - [ ] Draw better 11
     - [ ] Draw better 12
   - [ ] Time to Get Digital
-## Общее развитие)

@@ -91,4 +91,3 @@
     - [x] ~~Draw better 3~~
     - [x] ~~Draw better 4~~
     - [x] ~~Draw better 5~~
-## Общее развитие
