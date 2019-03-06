@@ -22,7 +22,7 @@
     - [ ] Обсуждение структурных паттернов
   - [ ] Паттерны поведения
     - [ ] Chain of Responsibility
-    - [ ] Command
+    - [x] ~~Command~~
     - [ ] Interpreter
     - [ ] Iterator
     - [ ] Mediator
@@ -73,6 +73,8 @@
  - [x] [Вечнозеленая фуксия. Изучаем операционку, которую Google готовит на смену Android](https://xakep.ru/2019/01/09/google-fuchsia/)
  - [x] [View Model Creation in Android — Android Architecture Components & Kotlin](https://proandroiddev.com/view-model-creation-in-android-android-architecture-components-kotlin-ce9f6b93a46b) - действительно интересная статья
  - [x] [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
+ - [x] [Создание Android приложения с использованием Anko Layouts и Anko Coroutines](https://habr.com/ru/post/442440/)
+ - [x] [RTL Support on Android. Here is all you need to know](https://habr.com/ru/post/442440/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
