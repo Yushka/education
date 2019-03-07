@@ -75,6 +75,7 @@
  - [x] [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
  - [x] [Создание Android приложения с использованием Anko Layouts и Anko Coroutines](https://habr.com/ru/post/442440/)
  - [x] [RTL Support on Android. Here is all you need to know](https://habr.com/ru/post/442440/)
+ - [x] [Пишем гибкий код, используя SOLID](https://habr.com/ru/company/skillbox/blog/442928/) - статья ни о чем
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
@@ -85,7 +86,7 @@
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
   - [ ] Putting it Together
     - [x] ~~Draw better 6~~
-    - [ ] Draw better 7
+    - [x] ~~Draw better 7~~
     - [ ] Draw better 8
     - [ ] Draw better 9
     - [ ] Draw better 10
