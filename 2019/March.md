@@ -76,6 +76,8 @@
  - [x] [Создание Android приложения с использованием Anko Layouts и Anko Coroutines](https://habr.com/ru/post/442440/)
  - [x] [RTL Support on Android. Here is all you need to know](https://habr.com/ru/post/442440/)
  - [x] [Пишем гибкий код, используя SOLID](https://habr.com/ru/company/skillbox/blog/442928/) - статья ни о чем
+ - [x] [Efficient Android Studio Project Structure](https://medium.com/@andycherkashyn/how-to-organize-android-project-files-the-right-way-46b34289ad0a)
+ - [x] [Android development tips — Part II](https://medium.com/code-procedure-and-rants/android-development-tips-part-ii-476bbab182b9)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
