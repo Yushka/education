@@ -78,6 +78,8 @@
  - [x] [Пишем гибкий код, используя SOLID](https://habr.com/ru/company/skillbox/blog/442928/) - статья ни о чем
  - [x] [Efficient Android Studio Project Structure](https://medium.com/@andycherkashyn/how-to-organize-android-project-files-the-right-way-46b34289ad0a)
  - [x] [Android development tips — Part II](https://medium.com/code-procedure-and-rants/android-development-tips-part-ii-476bbab182b9)
+ - [x] [Coroutines :: опыт практического применения](https://habr.com/ru/company/e-Legion/blog/442920/)
+ - [x] [Kotlin runtime checks — require and check](https://proandroiddev.com/kotlin-runtime-checks-require-and-check-435b590fbe2d)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
