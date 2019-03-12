@@ -1,10 +1,10 @@
 # Март 2019
 ## В программировании и CS
 - [ ] Банда четырех - Паттерны проектирования
-  - [ ] Проектирование редактора документов
+  - [x] ~~Проектирование редактора документов~~
     - [x] ~~Поддержка нескольких оконных систем~~
     - [x] ~~Операции пользователя~~
-    - [ ] Проверка правописания и расстановка переносов
+    - [x] ~~Проверка правописания и расстановка переносов~~
   - [ ] Порождающие паттерны
     - [x] ~~Abstract Factory~~
     - [ ] Builder
@@ -80,6 +80,9 @@
  - [x] [Android development tips — Part II](https://medium.com/code-procedure-and-rants/android-development-tips-part-ii-476bbab182b9)
  - [x] [Coroutines :: опыт практического применения](https://habr.com/ru/company/e-Legion/blog/442920/)
  - [x] [Kotlin runtime checks — require and check](https://proandroiddev.com/kotlin-runtime-checks-require-and-check-435b590fbe2d)
+ - [x] [Kotlin standard functions — just another guide](https://proandroiddev.com/kotlin-standard-functions-just-another-guide-8c639181ceb1)
+ - [x] [Get Expandable RecyclerView In A Simple Way](https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573)
+ - [ ] [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/company/yandex/blog/442762/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
@@ -91,7 +94,7 @@
   - [ ] Putting it Together
     - [x] ~~Draw better 6~~
     - [x] ~~Draw better 7~~
-    - [ ] Draw better 8
+    - [x] ~~Draw better 8~~
     - [ ] Draw better 9
     - [ ] Draw better 10
     - [ ] Draw better 11
