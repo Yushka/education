@@ -5,13 +5,13 @@
     - [x] ~~Поддержка нескольких оконных систем~~
     - [x] ~~Операции пользователя~~
     - [x] ~~Проверка правописания и расстановка переносов~~
-  - [ ] Порождающие паттерны
+  - [x] ~~Порождающие паттерны~~
     - [x] ~~Abstract Factory~~
-    - [ ] Builder
+    - [x] ~~Builder~~
     - [x] ~~Factory Method~~
     - [x] ~~Prototype~~
-    - [ ] Singleton
-    - [ ] Обсуждение порождающих паттернов
+    - [x] ~~Singleton~~
+    - [x] ~~Обсуждение порождающих паттернов~~
   - [ ] Структурные паттерны
     - [ ] Adapter
     - [x] ~~Bridge~~
@@ -82,7 +82,7 @@
  - [x] [Kotlin runtime checks — require and check](https://proandroiddev.com/kotlin-runtime-checks-require-and-check-435b590fbe2d)
  - [x] [Kotlin standard functions — just another guide](https://proandroiddev.com/kotlin-standard-functions-just-another-guide-8c639181ceb1)
  - [x] [Get Expandable RecyclerView In A Simple Way](https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573)
- - [ ] [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/company/yandex/blog/442762/)
+ - [x] [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/company/yandex/blog/442762/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
