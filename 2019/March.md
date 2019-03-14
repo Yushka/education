@@ -83,6 +83,8 @@
  - [x] [Kotlin standard functions — just another guide](https://proandroiddev.com/kotlin-standard-functions-just-another-guide-8c639181ceb1)
  - [x] [Get Expandable RecyclerView In A Simple Way](https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573)
  - [x] [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/company/yandex/blog/442762/)
+ - [x] [7 полезных советов для тех, кто использует Room](https://habr.com/ru/post/442786/)
+ - [x] [Разбираемся с Clean Code в Android](https://habr.com/ru/post/443662/) 100500-е объяснение SOLID
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
