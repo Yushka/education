@@ -85,6 +85,7 @@
  - [x] [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/company/yandex/blog/442762/)
  - [x] [7 полезных советов для тех, кто использует Room](https://habr.com/ru/post/442786/)
  - [x] [Разбираемся с Clean Code в Android](https://habr.com/ru/post/443662/) 100500-е объяснение SOLID
+ - [x] [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
