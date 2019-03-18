@@ -13,7 +13,7 @@
     - [x] ~~Singleton~~
     - [x] ~~Обсуждение порождающих паттернов~~
   - [ ] Структурные паттерны
-    - [ ] Adapter
+    - [x] ~~Adapter~~
     - [x] ~~Bridge~~
     - [x] ~~Decorator~~
     - [ ] Facade
@@ -86,6 +86,7 @@
  - [x] [7 полезных советов для тех, кто использует Room](https://habr.com/ru/post/442786/)
  - [x] [Разбираемся с Clean Code в Android](https://habr.com/ru/post/443662/) 100500-е объяснение SOLID
  - [x] [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
+ - [x] [Android Networking в 2019 - Retrofit с Kotlin Coroutines](https://nuancesprog.ru/p/3270/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
