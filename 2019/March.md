@@ -16,7 +16,7 @@
     - [x] ~~Adapter~~
     - [x] ~~Bridge~~
     - [x] ~~Decorator~~
-    - [ ] Facade
+    - [x] ~~Facade~~
     - [ ] Flyweight
     - [ ] Proxy
     - [ ] Обсуждение структурных паттернов
