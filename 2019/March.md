@@ -17,7 +17,7 @@
     - [x] ~~Bridge~~
     - [x] ~~Decorator~~
     - [x] ~~Facade~~
-    - [ ] Flyweight
+    - [x] ~~Flyweight~~
     - [ ] Proxy
     - [ ] Обсуждение структурных паттернов
   - [ ] Паттерны поведения
@@ -87,6 +87,8 @@
  - [x] [Разбираемся с Clean Code в Android](https://habr.com/ru/post/443662/) 100500-е объяснение SOLID
  - [x] [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
  - [x] [Android Networking в 2019 - Retrofit с Kotlin Coroutines](https://nuancesprog.ru/p/3270/)
+ - [x] [Будущее внедрения зависимостей в Android](https://habr.com/ru/post/444530/)
+ - [x] [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
