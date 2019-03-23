@@ -35,7 +35,7 @@
   - [ ] Заключение
 
 - [ ] [Learn Android O app development](https://www.udemy.com/android-app-development-with-java/learn/v4/overview) Буду смотреть только часть курса, в основном к дизайну относящуюся, а также какие то заинтересовавшие части
-  - [ ] Build a WhatsApp Clone and learn to use Cloud Data Storage\
+  - [ ] Build a WhatsApp Clone and learn to use Cloud Data Storage
   - [ ] App Design Course Introduction
   - [ ] Colour Theory
   - [ ] Typography
@@ -89,6 +89,16 @@
  - [x] [Android Networking в 2019 - Retrofit с Kotlin Coroutines](https://nuancesprog.ru/p/3270/)
  - [x] [Будущее внедрения зависимостей в Android](https://habr.com/ru/post/444530/)
  - [x] [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
+ - [x] [Java Challengers #4: Сравнение объектов с equals() и hashCode()](https://habr.com/ru/company/otus/blog/443710/)
+ - [x] [Советы для профессионального использования RecyclerView. Часть 1](https://habr.com/ru/post/425945/)
+ - [x] [На поводу у трендов, или движение навстречу RxJava и LiveData](https://habr.com/ru/company/funcorp/blog/426999/)
+ - [x] [Coroutine basics](https://kotlinlang.org/docs/reference/coroutines/basics.html)
+ - [x] [Android LiveData на Kotlin с использованием Retrofit и coroutines](https://habr.com/ru/post/427475/)
+ - [x] [Размышления о TDD. Почему эта методология не получила широкого признания](https://habr.com/ru/company/piter/blog/427853/)
+ - [x] [Как работает Android, часть 1](https://habr.com/ru/company/solarsecurity/blog/334796/)
+ - [x] [Как работает Android, часть 2](https://habr.com/ru/company/solarsecurity/blog/338292/)
+ - [x] [Как работает Android, часть 3](https://habr.com/ru/company/solarsecurity/blog/338494/)
+ - [x] [Советы для профессионального использования RecyclerView. Часть 2](https://habr.com/ru/post/426773/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
