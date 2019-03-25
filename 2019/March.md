@@ -21,7 +21,7 @@
     - [x] ~~Proxy~~
     - [x] ~~Обсуждение структурных паттернов~~
   - [ ] Паттерны поведения
-    - [ ] Chain of Responsibility
+    - [x] ~~Chain of Responsibility~~
     - [x] ~~Command~~
     - [ ] Interpreter
     - [ ] Iterator
@@ -99,6 +99,8 @@
  - [x] [Как работает Android, часть 2](https://habr.com/ru/company/solarsecurity/blog/338292/)
  - [x] [Как работает Android, часть 3](https://habr.com/ru/company/solarsecurity/blog/338494/)
  - [x] [Советы для профессионального использования RecyclerView. Часть 2](https://habr.com/ru/post/426773/)
+ - [x] [Как работает Android, часть 4](https://habr.com/ru/company/solarsecurity/blog/427431/)
+ - [x] [Опыт применения Coroutines и Retrofit2](https://habr.com/ru/post/445242/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
