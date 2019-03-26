@@ -23,7 +23,7 @@
   - [ ] Паттерны поведения
     - [x] ~~Chain of Responsibility~~
     - [x] ~~Command~~
-    - [ ] Interpreter
+    - [x] ~~Interpreter~~
     - [ ] Iterator
     - [ ] Mediator
     - [ ] Memento
@@ -33,40 +33,6 @@
     - [ ] Visitor
     - [ ] Обсуждение паттернов поведения
   - [ ] Заключение
-
-- [ ] [Learn Android O app development](https://www.udemy.com/android-app-development-with-java/learn/v4/overview) Буду смотреть только часть курса, в основном к дизайну относящуюся, а также какие то заинтересовавшие части
-  - [ ] Build a WhatsApp Clone and learn to use Cloud Data Storage
-  - [ ] App Design Course Introduction
-  - [ ] Colour Theory
-  - [ ] Typography
-  - [ ] The Fundamentals of User Interface (UI) Design for Mobile
-  - [ ] The Fundamentals of User Experience (UX) Design for Mobile
-  - [ ] Designing for iOS vs. Android - What are the Important Differences?
-  - [ ] Putting it All Together - A Step-By-Step Guide to the Mobile Design Workflow
-  - [ ] Resources
-  - [ ] The Complete App Marketing Course
-  - [ ] Idea Validation - Save Yourself Time and Money
-  - [ ] App Monetisation Methods - How to Make Money From Your App
-  - [ ] How to Optimise Your App Store Listing
-  - [ ] Growth Hacking Techniques for App Downloads
-  - [ ] How to Get Press Coverage for Your App
-  - [ ] How to Get Your App Featured on the App Store
-  - [ ] App Store Optimisation - How to Rank Higher on the App Store Search Algorithm
-  - [ ] The Right Way of Using Paid Advertising to Drive App Downloads
-  - [ ] App Store Reviews and Ratings
-  - [ ] How to Use App Analytics to Increase User Retention
-  - [ ] White Hat vs. Black Hat Methods of Getting More App Downloads and Revenue
-  - [ ] Bonus: How to Build Your App Showcase Website
-  - [ ] Your Turn
-
-- [ ] [Learn Figma - UI/UX Design Essential Training](https://www.udemy.com/learn-figma/)
-  - [ ] Introduction to the Course
-  - [ ] Learning the Figma interface
-  - [ ] Setting up a new project
-  - [ ] Adding and editing content
-  - [ ] Completing the design
-  - [ ] Prototyping, Sharing and Exporting
-  - [ ] Conclusion
 
  - Всякое интересное
  - [x] [Современная MVI-архитектура на базе Kotlin](https://habr.com/ru/company/badoo/blog/429728/) Прикольно, но чтобы разобраться нужно будет заморочиться.
@@ -101,6 +67,13 @@
  - [x] [Советы для профессионального использования RecyclerView. Часть 2](https://habr.com/ru/post/426773/)
  - [x] [Как работает Android, часть 4](https://habr.com/ru/company/solarsecurity/blog/427431/)
  - [x] [Опыт применения Coroutines и Retrofit2](https://habr.com/ru/post/445242/)
+ - [x] [Читабельность кода](https://habr.com/ru/company/alconost/blog/443678/) На удивление неплохая абстрактная статья
+ - [x] [Room 🔗 Coroutines](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5) - ничего интересного
+ - [x] [Сохранение состояния фрагментов (Fragment)](https://habr.com/ru/post/280586/)
+ - [x] [Custom View Components](https://developer.android.com/guide/topics/ui/custom-components)
+ - [x] [Creating a View Class](https://developer.android.com/training/custom-views/create-view)
+ - [x] [Custom Drawing](https://developer.android.com/training/custom-views/custom-drawing)
+ - [x] [Making the View Interactive](https://developer.android.com/training/custom-views/making-interactive)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
