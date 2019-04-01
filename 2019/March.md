@@ -24,15 +24,6 @@
     - [x] ~~Chain of Responsibility~~
     - [x] ~~Command~~
     - [x] ~~Interpreter~~
-    - [ ] Iterator
-    - [ ] Mediator
-    - [ ] Memento
-    - [ ] Observer
-    - [ ] State
-    - [ ] Template Method
-    - [ ] Visitor
-    - [ ] Обсуждение паттернов поведения
-  - [ ] Заключение
 
  - Всякое интересное
  - [x] [Современная MVI-архитектура на базе Kotlin](https://habr.com/ru/company/badoo/blog/429728/) Прикольно, но чтобы разобраться нужно будет заморочиться.
@@ -74,11 +65,6 @@
  - [x] [Creating a View Class](https://developer.android.com/training/custom-views/create-view)
  - [x] [Custom Drawing](https://developer.android.com/training/custom-views/custom-drawing)
  - [x] [Making the View Interactive](https://developer.android.com/training/custom-views/making-interactive)
-## В английском языке
-- Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
-  - [ ] And the moon be still as bright
-  - [ ] The settlers
-  - [ ] ...
 
 ## Рисование
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
@@ -86,8 +72,3 @@
     - [x] ~~Draw better 6~~
     - [x] ~~Draw better 7~~
     - [x] ~~Draw better 8~~
-    - [ ] Draw better 9
-    - [ ] Draw better 10
-    - [ ] Draw better 11
-    - [ ] Draw better 12
-  - [ ] Time to Get Digital
