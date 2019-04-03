@@ -5,8 +5,8 @@
     - [x] ~~Iterator~~
     - [x] ~~Mediator~~
     - [x] ~~Memento~~
-    - [ ] Observer
-    - [ ] State
+    - [x] ~~Observer~~
+    - [x] ~~State~~
     - [ ] Template Method
     - [ ] Visitor
     - [ ] Обсуждение паттернов поведения
@@ -56,6 +56,7 @@
    - [Как сделать custom View для Android. Ч3.: анимация, сглаживание](http://codeandlife.ru/index.php/android/3-creating-custom-android-views-part-3.html)
    - [Coroutines. Channels](https://kotlinlang.org/docs/reference/coroutines/channels.html) Почитал про экспериментальную фичу. Выглядит интересно.
    - [Coroutines. Composing suspending functions](https://kotlinlang.org/docs/reference/coroutines/composing-suspending-functions.html)
+   - [Лицензия на вождение болида, или почему приложения должны быть Single-Activity](https://habr.com/ru/company/redmadrobot/blog/426617/)
 
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
