@@ -1,16 +1,16 @@
 # Апрель 2019
 ## В программировании и CS
-- [ ] Банда четырех - Паттерны проектирования
-  - [ ] Паттерны поведения
+- [x] ~~Банда четырех - Паттерны проектирования~~
+  - [x] ~~Паттерны поведения~~
     - [x] ~~Iterator~~
     - [x] ~~Mediator~~
     - [x] ~~Memento~~
     - [x] ~~Observer~~
     - [x] ~~State~~
-    - [ ] Template Method
-    - [ ] Visitor
-    - [ ] Обсуждение паттернов поведения
-  - [ ] Заключение
+    - [x] ~~Template Method~~
+    - [x] ~~Visitor~~
+    - [x] ~~Обсуждение паттернов поведения~~
+  - [x] ~~Заключение~~
 
 - [ ] [Learn Android O app development](https://www.udemy.com/android-app-development-with-java/learn/v4/overview) Буду смотреть только часть курса, в основном к дизайну относящуюся, а также какие то заинтересовавшие части
   - [ ] Build a WhatsApp Clone and learn to use Cloud Data Storage
