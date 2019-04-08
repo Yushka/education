@@ -12,41 +12,15 @@
     - [x] ~~Обсуждение паттернов поведения~~
   - [x] ~~Заключение~~
 
-- [ ] [Learn Android O app development](https://www.udemy.com/android-app-development-with-java/learn/v4/overview) Буду смотреть только часть курса, в основном к дизайну относящуюся, а также какие то заинтересовавшие части
-  - [ ] Build a WhatsApp Clone and learn to use Cloud Data Storage
-  - [ ] App Design Course Introduction
-  - [ ] Colour Theory
-  - [ ] Typography
-  - [ ] The Fundamentals of User Interface (UI) Design for Mobile
-  - [ ] The Fundamentals of User Experience (UX) Design for Mobile
-  - [ ] Designing for iOS vs. Android - What are the Important Differences?
-  - [ ] Putting it All Together - A Step-By-Step Guide to the Mobile Design Workflow
-  - [ ] Resources
-  - [ ] The Complete App Marketing Course
-  - [ ] Idea Validation - Save Yourself Time and Money
-  - [ ] App Monetisation Methods - How to Make Money From Your App
-  - [ ] How to Optimise Your App Store Listing
-  - [ ] Growth Hacking Techniques for App Downloads
-  - [ ] How to Get Press Coverage for Your App
-  - [ ] How to Get Your App Featured on the App Store
-  - [ ] App Store Optimisation - How to Rank Higher on the App Store Search Algorithm
-  - [ ] The Right Way of Using Paid Advertising to Drive App Downloads
-  - [ ] App Store Reviews and Ratings
-  - [ ] How to Use App Analytics to Increase User Retention
-  - [ ] White Hat vs. Black Hat Methods of Getting More App Downloads and Revenue
-  - [ ] Bonus: How to Build Your App Showcase Website
-  - [ ] Your Turn
-
-- [ ] [Learn Figma - UI/UX Design Essential Training](https://www.udemy.com/learn-figma/)
-  - [ ] Introduction to the Course
-  - [ ] Learning the Figma interface
-  - [ ] Setting up a new project
-  - [ ] Adding and editing content
-  - [ ] Completing the design
-  - [ ] Prototyping, Sharing and Exporting
-  - [ ] Conclusion
-
-- [ ] [Android architecture book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
+ - [ ] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
+   - [ ] Intro to Cross Platform Game Development
+   - [ ] Intro to LibGDX
+   - [ ] Drawing
+   - [ ] Cameras and Viewports
+   - [ ] Movement
+   - [ ] User Input
+   - [ ] Growing Icicles
+   - [ ] Polishing Icicles
 
  - Всякое интересное прочитанное
    - [MVVM — How View and ViewModel should communicate?](https://android.jlelse.eu/mvvm-how-view-and-viewmodel-should-communicate-8a386ce1bb42)
@@ -57,6 +31,7 @@
    - [Coroutines. Channels](https://kotlinlang.org/docs/reference/coroutines/channels.html) Почитал про экспериментальную фичу. Выглядит интересно.
    - [Coroutines. Composing suspending functions](https://kotlinlang.org/docs/reference/coroutines/composing-suspending-functions.html)
    - [Лицензия на вождение болида, или почему приложения должны быть Single-Activity](https://habr.com/ru/company/redmadrobot/blog/426617/)
+   - [Ключевое слово vararg и оператор spread в Kotlin](https://medium.com/nuances-of-programming/%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE-vararg-%D0%B8-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-spread-%D0%B2-kotlin-2104ee4377d0)
 
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
