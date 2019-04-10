@@ -13,7 +13,7 @@
   - [x] ~~Заключение~~
 
  - [ ] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
-   - [ ] Intro to Cross Platform Game Development
+   - [x] ~~Intro to Cross Platform Game Development~~
    - [ ] Intro to LibGDX
    - [ ] Drawing
    - [ ] Cameras and Viewports
