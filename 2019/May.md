@@ -1,7 +1,7 @@
 # Апрель 2019
 ## В программировании и CS
  - [ ] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
-   - [ ] Intro to LibGDX
+   - [x] ~~Intro to LibGDX~~
    - [ ] Drawing
    - [ ] Cameras and Viewports
    - [ ] Movement
