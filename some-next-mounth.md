@@ -46,8 +46,6 @@
 - [ ] [Курс по японскому на openedu.ru](https://courses.openedu.ru/courses/course-v1:spbu+JPLANG+fall_2018/info)
 - [ ] Повторить несколько первых уроков из みんなの日本語 и доделать несделанные раньше задания
 ## В английском языке
-- [ ] Сериал Heroes без субтитров
-- [ ] Игра Tokyo Dark субтитры английские озвучка японская
 ## Общее развитие
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
   - [ ] Introduction To Digital Coloring
