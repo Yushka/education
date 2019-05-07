@@ -10,7 +10,10 @@
    - [ ] Polishing Icicles
 
  - [ ] [Android Room with a View - Kotlin](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)
+
  - Всякое интересное прочитанное
+   - [Храним токены авторизации безопасно](https://habr.com/ru/post/423753/) - интересно, нужно будет перечитать. Вместе с каментами.
+   - [Increasing readability using operator conventions in Kotlin](https://proandroiddev.com/increasing-readability-using-operator-conventions-in-kotlin-d518541f4c0a)
 
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
