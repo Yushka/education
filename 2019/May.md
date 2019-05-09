@@ -2,7 +2,7 @@
 ## В программировании и CS
  - [ ] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
    - [x] ~~Intro to LibGDX~~
-   - [ ] Drawing
+   - [x] ~~Drawing~~
    - [ ] Cameras and Viewports
    - [ ] Movement
    - [ ] User Input
