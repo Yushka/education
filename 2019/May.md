@@ -3,7 +3,7 @@
  - [ ] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
    - [x] ~~Intro to LibGDX~~
    - [x] ~~Drawing~~
-   - [ ] Cameras and Viewports
+   - [x] ~~Cameras and Viewports~~
    - [ ] Movement
    - [ ] User Input
    - [ ] Growing Icicles
@@ -14,7 +14,7 @@
  - Всякое интересное прочитанное
    - [Храним токены авторизации безопасно](https://habr.com/ru/post/423753/) - интересно, нужно будет перечитать. Вместе с каментами.
    - [Increasing readability using operator conventions in Kotlin](https://proandroiddev.com/increasing-readability-using-operator-conventions-in-kotlin-d518541f4c0a)
-
+   - [Lessons Learned Implementing Redux on Android](https://hackernoon.com/lessons-learned-implementing-redux-on-android-cba1bed40c41)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
