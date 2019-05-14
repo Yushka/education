@@ -4,8 +4,8 @@
    - [x] ~~Intro to LibGDX~~
    - [x] ~~Drawing~~
    - [x] ~~Cameras and Viewports~~
-   - [ ] Movement
-   - [ ] User Input
+   - [x] ~~Movement~~
+   - [x] ~~User Input~~
    - [ ] Growing Icicles
    - [ ] Polishing Icicles
 
