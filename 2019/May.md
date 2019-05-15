@@ -1,13 +1,11 @@
 # Апрель 2019
 ## В программировании и CS
- - [ ] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
+ - [x] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
    - [x] ~~Intro to LibGDX~~
    - [x] ~~Drawing~~
    - [x] ~~Cameras and Viewports~~
    - [x] ~~Movement~~
    - [x] ~~User Input~~
-   - [ ] Growing Icicles
-   - [ ] Polishing Icicles
 
  - [ ] [Android Room with a View - Kotlin](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)
 
