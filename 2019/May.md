@@ -13,6 +13,8 @@
    - [Храним токены авторизации безопасно](https://habr.com/ru/post/423753/) - интересно, нужно будет перечитать. Вместе с каментами.
    - [Increasing readability using operator conventions in Kotlin](https://proandroiddev.com/increasing-readability-using-operator-conventions-in-kotlin-d518541f4c0a)
    - [Lessons Learned Implementing Redux on Android](https://hackernoon.com/lessons-learned-implementing-redux-on-android-cba1bed40c41)
+   - [Безопасность со вкусом Google](https://habr.com/ru/company/redmadrobot/blog/452252/)
+   - [Безопасная передача данных между двумя приложениями](https://habr.com/ru/company/tinkoff/blog/448198/)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
