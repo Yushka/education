@@ -7,7 +7,7 @@
    - [x] ~~Movement~~
    - [x] ~~User Input~~
 
- - [ ] [Android Room with a View - Kotlin](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)
+ - [x] ~~[Android Room with a View - Kotlin](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)~~
 
  - Всякое интересное прочитанное
    - [Храним токены авторизации безопасно](https://habr.com/ru/post/423753/) - интересно, нужно будет перечитать. Вместе с каментами.
@@ -15,6 +15,10 @@
    - [Lessons Learned Implementing Redux on Android](https://hackernoon.com/lessons-learned-implementing-redux-on-android-cba1bed40c41)
    - [Безопасность со вкусом Google](https://habr.com/ru/company/redmadrobot/blog/452252/)
    - [Безопасная передача данных между двумя приложениями](https://habr.com/ru/company/tinkoff/blog/448198/)
+   - [Размер Java объектов](https://habr.com/ru/post/134102/)
+   - [Фундаментальные проблемы Android](http://javanese.online/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_android)
+   - [Обобщения (Generics) в котлине](https://kotlinlang.ru/docs/reference/generics.html)
+ 
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
