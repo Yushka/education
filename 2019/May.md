@@ -7,7 +7,8 @@
    - [x] ~~Movement~~
    - [x] ~~User Input~~
 
- - [x] ~~[Android Room with a View - Kotlin](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)~~
+ - [x] ~~[Android Room with a View - Kotlin codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)~~
+ - [x] ~~[Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles/#0)~~
 
  - Всякое интересное прочитанное
    - [Храним токены авторизации безопасно](https://habr.com/ru/post/423753/) - интересно, нужно будет перечитать. Вместе с каментами.
