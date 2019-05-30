@@ -22,7 +22,9 @@
    - [Railway Oriented Programming in Kotlin](https://proandroiddev.com/railway-oriented-programming-in-kotlin-f1bceed399e5)
    - [Обобщения. Обобщенные классы и функции](https://metanit.com/java/kotlin/6.1.php)
    - [Ограничения обобщений](https://metanit.com/java/kotlin/6.2.php)
-   - [Вариантность, ковариантность и контравариантность](https://metanit.com/java/kotlin/6.3.php) 
+   - [Вариантность, ковариантность и контравариантность](https://metanit.com/java/kotlin/6.3.php)
+   - [Темы, стили и другие](https://habr.com/ru/post/453812/)
+   - [Kotlin DSL: Теория и Практика](https://habr.com/ru/company/haulmont/blog/341402/)
  
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
