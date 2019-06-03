@@ -14,12 +14,12 @@
 - [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
 
  - Прочитанные статьи, просмотренные видео
-  - [Redux architecture for android apps](https://jayrambhia.com/blog/android-redux-intro)
-  - [Непростой принцип единственной ответственности](https://habr.com/ru/post/449586/)
-  - [Android CPU, Compilers, D8 & R8](https://proandroiddev.com/android-cpu-compilers-d8-r8-a3aa2bfbc109)
-  - [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
-  - [Middleware in Redux architecture for android application](https://jayrambhia.com/blog/android-redux-middleware)
-  - [Android.apply{ Redux }](https://medium.com/@edward.francesco.cool/android-apply-redux-2ad0f7355e0)
+   - [Redux architecture for android apps](https://jayrambhia.com/blog/android-redux-intro)
+   - [Непростой принцип единственной ответственности](https://habr.com/ru/post/449586/)
+   - [Android CPU, Compilers, D8 & R8](https://proandroiddev.com/android-cpu-compilers-d8-r8-a3aa2bfbc109)
+   - [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
+   - [Middleware in Redux architecture for android application](https://jayrambhia.com/blog/android-redux-middleware)
+   - [Android.apply{ Redux }](https://medium.com/@edward.francesco.cool/android-apply-redux-2ad0f7355e0)
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
