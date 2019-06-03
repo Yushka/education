@@ -1,7 +1,7 @@
 # Апрель 2019
 ## В программировании и CS
 
- - [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
+ - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
     - [ ] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
     - [ ] Компоненты платформы Android. Жизненный цикл Activity
     - [ ] Android Architecture Components. Сохранение состояния Activity
