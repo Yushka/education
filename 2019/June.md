@@ -1,5 +1,8 @@
 # Апрель 2019
 ## В программировании и CS
+ - [ ] [Android Persistence codelab](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
+ - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
+ - [ ] [Using MotionLayout to Animate Android Apps](https://codelabs.developers.google.com/codelabs/motion-layout/index.html#0)
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
     - [ ] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
