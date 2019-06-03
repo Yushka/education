@@ -26,17 +26,3 @@
    - [Темы, стили и другие](https://habr.com/ru/post/453812/)
    - [Kotlin DSL: Теория и Практика](https://habr.com/ru/company/haulmont/blog/341402/)
  
-## В английском языке
-- Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
-  - [ ] And the moon be still as bright
-  - [ ] The settlers
-  - [ ] ...
-
-## Рисование
-- [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
-  - [ ] Putting it Together
-    - [ ] Draw better 9
-    - [ ] Draw better 10
-    - [ ] Draw better 11
-    - [ ] Draw better 12
-  - [ ] Time to Get Digital

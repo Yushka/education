@@ -36,7 +36,6 @@
 
 - [ ] [Android architecture book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
 - [ ] [Введение в дизайн-мышление](https://stepik.org/course/48294/syllabus)
-- [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
 - Udemy
     - [ ] [The Complete Android App Development](https://www.udemy.com/android-tutorial-for-beginners/learn/v4/overview)
     - [ ] [Android Developer's Portfolio Masterclass - Build real Apps](https://www.udemy.com/android-developers-portfolio-masterclass-build-7-apps/learn/v4/overview)
