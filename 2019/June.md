@@ -1,6 +1,6 @@
 # Апрель 2019
 ## В программировании и CS
- - [ ] [Android Persistence codelab](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
+ - [x] [Android Persistence codelab](https://codelabs.developers.google.com/codelabs/android-persistence/#0) - немного Room
  - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
  - [ ] [Using MotionLayout to Animate Android Apps](https://codelabs.developers.google.com/codelabs/motion-layout/index.html#0)
 
@@ -15,6 +15,7 @@
     - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей 
 
 - [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
+- [ ] [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
  - Прочитанные статьи, просмотренные видео
    - [Redux architecture for android apps](https://jayrambhia.com/blog/android-redux-intro)
