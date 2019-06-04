@@ -4,6 +4,15 @@
  - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
  - [ ] [Using MotionLayout to Animate Android Apps](https://codelabs.developers.google.com/codelabs/motion-layout/index.html#0)
 
+- [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
+  - [x] Введение
+  - [x] Знакомство с Kotlin
+  - [ ] Архитектура Android и инструменты разработчика
+  - [ ] Программирование пользовательских интерфейсов
+  - [ ] Задачи для закрепления
+  - [ ] Пользовательские интерфейсы - продолжение
+  - [ ] Android advanced
+
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
     - [ ] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
     - [ ] Компоненты платформы Android. Жизненный цикл Activity
@@ -14,7 +23,6 @@
     - [ ] Socket.io - Realtime клиент-серверное взаимодействие на веб-сокетах 
     - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей 
 
-- [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
 - [ ] [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
  - Прочитанные статьи, просмотренные видео
