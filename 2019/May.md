@@ -1,4 +1,4 @@
-# Апрель 2019
+# Май 2019
 ## В программировании и CS
  - [x] [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
    - [x] ~~Intro to LibGDX~~
