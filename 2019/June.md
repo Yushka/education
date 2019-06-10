@@ -24,6 +24,16 @@
     - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей 
 
 - [ ] [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+  - [ ] Build your first app
+  - [ ] Layouts
+  - [ ] App Navigation
+  - [ ] Activity & Fragment livecycle
+  - [ ] App architecture (UI layer)
+  - [ ] App architecture (Persistence)
+  - [ ] RecyclerView
+  - [ ] Connect to the internet
+  - [ ] Behind the scenes
+  - [ ] Designing for everyone
 
  - Прочитанные статьи, просмотренные видео
    - [Redux architecture for android apps](https://jayrambhia.com/blog/android-redux-intro)
