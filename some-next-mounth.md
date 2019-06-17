@@ -1,6 +1,18 @@
 # План на несколько месяцев вперед
 ## В программировании и CS
 
+- [ ] [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+  - [ ] Build your first app
+  - [ ] Layouts
+  - [ ] App Navigation
+  - [ ] Activity & Fragment livecycle
+  - [ ] App architecture (UI layer)
+  - [ ] App architecture (Persistence)
+  - [ ] RecyclerView
+  - [ ] Connect to the internet
+  - [ ] Behind the scenes
+  - [ ] Designing for everyone
+
 - [ ] [Learn Android O app development](https://www.udemy.com/android-app-development-with-java/learn/v4/overview) Буду смотреть только часть курса, в основном к дизайну относящуюся, а также какие то заинтересовавшие части
   - [ ] Build a WhatsApp Clone and learn to use Cloud Data Storage
   - [ ] App Design Course Introduction

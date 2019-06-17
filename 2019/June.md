@@ -10,7 +10,7 @@
   - [x] Архитектура Android и инструменты разработчика
   - [x] Программирование пользовательских интерфейсов
   - [x] Задачи для закрепления
-  - [ ] Пользовательские интерфейсы - продолжение
+  - [x] Пользовательские интерфейсы - продолжение
   - [ ] Android advanced
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
@@ -23,18 +23,6 @@
     - [ ] Socket.io - Realtime клиент-серверное взаимодействие на веб-сокетах 
     - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей 
 
-- [ ] [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
-  - [ ] Build your first app
-  - [ ] Layouts
-  - [ ] App Navigation
-  - [ ] Activity & Fragment livecycle
-  - [ ] App architecture (UI layer)
-  - [ ] App architecture (Persistence)
-  - [ ] RecyclerView
-  - [ ] Connect to the internet
-  - [ ] Behind the scenes
-  - [ ] Designing for everyone
-
  - Прочитанные статьи, просмотренные видео
    - [Redux architecture for android apps](https://jayrambhia.com/blog/android-redux-intro)
    - [Непростой принцип единственной ответственности](https://habr.com/ru/post/449586/)
@@ -42,6 +30,10 @@
    - [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
    - [Middleware in Redux architecture for android application](https://jayrambhia.com/blog/android-redux-middleware)
    - [Android.apply{ Redux }](https://medium.com/@edward.francesco.cool/android-apply-redux-2ad0f7355e0)
+   - [5 распространенных ошибок при использовании архитектурных компонентов Android](https://habr.com/ru/post/454424/)
+   - [Разбираемся с тем, как устроены функции в Java и Kotlin](https://proglib.io/p/kotlin-java-tips/) - название не в тему, статья про многопоточку
+   - [Темы и стили в Android без магии. И как их готовить с SwitchCompat](https://habr.com/ru/post/456178/)
+
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] And the moon be still as bright
