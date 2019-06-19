@@ -14,7 +14,7 @@
   - [ ] Android advanced
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
-    - [ ] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
+    - [x] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
     - [ ] Компоненты платформы Android. Жизненный цикл Activity
     - [ ] Android Architecture Components. Сохранение состояния Activity
     - [ ] Material Design, RecycleView, CoordinatorLayout 
