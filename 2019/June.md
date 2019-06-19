@@ -4,14 +4,14 @@
  - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
  - [ ] [Using MotionLayout to Animate Android Apps](https://codelabs.developers.google.com/codelabs/motion-layout/index.html#0)
 
-- [ ] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
+- [x] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
   - [x] Введение
   - [x] Знакомство с Kotlin
   - [x] Архитектура Android и инструменты разработчика
   - [x] Программирование пользовательских интерфейсов
   - [x] Задачи для закрепления
   - [x] Пользовательские интерфейсы - продолжение
-  - [ ] Android advanced
+  - [x] Android advanced
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
     - [x] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
