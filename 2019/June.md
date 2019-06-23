@@ -34,6 +34,13 @@
    - [Разбираемся с тем, как устроены функции в Java и Kotlin](https://proglib.io/p/kotlin-java-tips/) - название не в тему, статья про многопоточку
    - [Темы и стили в Android без магии. И как их готовить с SwitchCompat](https://habr.com/ru/post/456178/)
    - [Функциональный Swift — это просто](https://habr.com/ru/company/redmadrobot/blog/455359/)
+   - [Исследуем RxJava 2 для Android](https://habr.com/ru/company/badoo/blog/328434/)
+   - [Android Architecture](https://hackmd.io/@4F6roGkFSHeYx4R4sBs7ew/BJg82eA7N?type=view)
+   - [Безболезненное разрешение Merge конфликтов в Git](https://habr.com/ru/post/323234/)
+   - [Re-using layouts with include](https://developer.android.com/training/improving-layouts/reusing-layouts)
+   - [Locale changes and the AndroidViewModel antipattern](https://medium.com/androiddevelopers/locale-changes-and-the-androidviewmodel-antipattern-84eb677660d9)
+   - [Android ViewModel Should Be Called ScopedComponent!](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
+   - [Руководство по организации архитектуры Android приложения](https://habr.com/ru/post/456256/) - очень паршивый перевод
 
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
