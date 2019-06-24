@@ -41,6 +41,8 @@
    - [Locale changes and the AndroidViewModel antipattern](https://medium.com/androiddevelopers/locale-changes-and-the-androidviewmodel-antipattern-84eb677660d9)
    - [Android ViewModel Should Be Called ScopedComponent!](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
    - [Руководство по организации архитектуры Android приложения](https://habr.com/ru/post/456256/) - очень паршивый перевод
+   - [Фоновая работа в Android: возможности и ограничения | Александр Агейченко | Taganrog Mobile Talks #2](https://www.youtube.com/watch?v=d91FOmadOq8)
+   - [Современный подход к конкурентности в Android: корутины в Kotlin](https://habr.com/ru/company/piter/blog/457224/)
 
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
