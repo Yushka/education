@@ -1,5 +1,20 @@
 # План на несколько месяцев вперед
 ## В программировании и CS
+- [ ] [RxJava, RxAndroid Complete Beginner Course ](https://www.androidhive.info/RxJava/tutorials/)
+- [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [ ] [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
+- [ ] [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+- [ ] [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+- [ ] [Achieving Single Sign-on with AppAuth](https://codelabs.developers.google.com/codelabs/appauth-android-codelab/index.html?index=..%2F..index#0)
+- [ ] [Background Work with WorkManager - Kotlin](https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html?index=..%2F..index#0)
+- [ ] [Firebase Android Codelab - Build Friendly Chat](https://codelabs.developers.google.com/codelabs/firebase-android/index.html?index=..%2F..index#0)
+- [ ] [Firebase Android Codelab - Grow Friendly Chat](https://codelabs.developers.google.com/codelabs/growfirebase-android/index.html?index=..%2F..index#0)
+- [ ] [Navigation Codelab](https://codelabs.developers.google.com/codelabs/android-navigation/index.html?index=..%2F..index#0)
+- [ ] [Optimize your app for autofill](https://codelabs.developers.google.com/codelabs/optimize-autofill/index.html?index=..%2F..index#0)
+- [ ] [android-storage-permissions](https://codelabs.developers.google.com/codelabs/android-storage-permissions/index.html)
+- [ ] [android-network-security-config](https://codelabs.developers.google.com/codelabs/android-network-security-config/index.html)
+- [ ] [Buy and Subscribe: Monetize your app on Google Play](https://codelabs.developers.google.com/codelabs/play-billing-codelab/index.html#0)
+- [ ] [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0)
 
 - [ ] [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
   - [ ] Build your first app
