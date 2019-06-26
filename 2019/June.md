@@ -2,7 +2,6 @@
 ## В программировании и CS
  - [x] [Android Persistence codelab](https://codelabs.developers.google.com/codelabs/android-persistence/#0) - немного Room
  - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
- - [ ] [Using MotionLayout to Animate Android Apps](https://codelabs.developers.google.com/codelabs/motion-layout/index.html#0)
 
 - [x] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
   - [x] Введение
@@ -15,13 +14,7 @@
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
     - [x] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
-    - [ ] Компоненты платформы Android. Жизненный цикл Activity
-    - [ ] Android Architecture Components. Сохранение состояния Activity
-    - [ ] Material Design, RecycleView, CoordinatorLayout 
-    - [ ] Работа с сетью. Retrofit2. Kotlin Coroutines Base
-    - [ ] Обзор СУБД Room 
-    - [ ] Socket.io - Realtime клиент-серверное взаимодействие на веб-сокетах 
-    - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей 
+    - [ ] Котлин
 
  - Прочитанные статьи, просмотренные видео
    - [Redux architecture for android apps](https://jayrambhia.com/blog/android-redux-intro)

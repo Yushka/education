@@ -1,5 +1,15 @@
 # План на несколько месяцев вперед
 ## В программировании и CS
+ - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
+    - [ ] Компоненты платформы Android. Жизненный цикл Activity
+    - [ ] Android Architecture Components. Сохранение состояния Activity
+    - [ ] Material Design, RecycleView, CoordinatorLayout 
+    - [ ] Работа с сетью. Retrofit2. Kotlin Coroutines Base
+    - [ ] Обзор СУБД Room 
+    - [ ] Socket.io - Realtime клиент-серверное взаимодействие на веб-сокетах 
+    - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей 
+
+- [ ] [Using MotionLayout to Animate Android Apps](https://codelabs.developers.google.com/codelabs/motion-layout/index.html#0)
 - [ ] [RxJava, RxAndroid Complete Beginner Course ](https://www.androidhive.info/RxJava/tutorials/)
 - [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
