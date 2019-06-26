@@ -43,6 +43,8 @@
    - [Руководство по организации архитектуры Android приложения](https://habr.com/ru/post/456256/) - очень паршивый перевод
    - [Фоновая работа в Android: возможности и ограничения | Александр Агейченко | Taganrog Mobile Talks #2](https://www.youtube.com/watch?v=d91FOmadOq8)
    - [Современный подход к конкурентности в Android: корутины в Kotlin](https://habr.com/ru/company/piter/blog/457224/)
+   - [Increasing performance in an Android application](https://heartbeat.fritz.ai/increasing-performance-in-an-android-application-1086640aeef)
+   - [Как разрабатываются и производятся процессоры: основы архитектуры компьютеров](https://habr.com/ru/post/456922/)
 
 ## В английском языке
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
