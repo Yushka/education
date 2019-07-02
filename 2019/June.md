@@ -1,7 +1,6 @@
 # Июнь 2019
 ## В программировании и CS
  - [x] [Android Persistence codelab](https://codelabs.developers.google.com/codelabs/android-persistence/#0) - немного Room
- - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
 
 - [x] [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/syllabus)
   - [x] Введение
@@ -14,7 +13,6 @@
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
     - [x] Вводное занятие. Организационные вопросы. Kotlin и почему он будет жить с нами? 
-    - [ ] Котлин
 
  - Прочитанные статьи, просмотренные видео
    - [Redux architecture for android apps](https://jayrambhia.com/blog/android-redux-intro)
@@ -38,18 +36,3 @@
    - [Современный подход к конкурентности в Android: корутины в Kotlin](https://habr.com/ru/company/piter/blog/457224/)
    - [Increasing performance in an Android application](https://heartbeat.fritz.ai/increasing-performance-in-an-android-application-1086640aeef)
    - [Как разрабатываются и производятся процессоры: основы архитектуры компьютеров](https://habr.com/ru/post/456922/)
-
-## В английском языке
-- Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
-  - [ ] And the moon be still as bright
-  - [ ] The settlers
-  - [ ] ...
-
-## Рисование
-- [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
-  - [ ] Putting it Together
-    - [ ] Draw better 9
-    - [ ] Draw better 10
-    - [ ] Draw better 11
-    - [ ] Draw better 12
-  - [ ] Time to Get Digital

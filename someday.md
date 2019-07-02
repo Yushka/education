@@ -13,3 +13,10 @@
 ## В японском языке
 ## В английском языке
 ## Общее развитие
+- [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
+  - [ ] Putting it Together
+    - [ ] Draw better 9
+    - [ ] Draw better 10
+    - [ ] Draw better 11
+    - [ ] Draw better 12
+  - [ ] Time to Get Digital
