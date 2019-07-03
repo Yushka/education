@@ -3,7 +3,7 @@
  - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
-    - [ ] Котлин
+    - [x] Котлин
     - [ ] Компоненты платформы Android. Жизненный цикл Activity
     - [ ] Android Architecture Components. Сохранение состояния Activity
     - [ ] Material Design, RecycleView, CoordinatorLayout 
