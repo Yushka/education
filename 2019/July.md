@@ -4,7 +4,7 @@
 
  - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
     - [x] Котлин
-    - [ ] Компоненты платформы Android. Жизненный цикл Activity
+    - [x] Компоненты платформы Android. Жизненный цикл Activity
     - [ ] Android Architecture Components. Сохранение состояния Activity
     - [ ] Material Design, RecycleView, CoordinatorLayout 
     - [ ] Работа с сетью. Retrofit2. Kotlin Coroutines Base
@@ -14,8 +14,8 @@
 
  - [ ] Андроид. Программирование для профессионалов. 3-е издание.
     - [x] Первое приложение
-    - [ ] Android и модель MVC
-    - [ ] Жизненный цикл активности
+    - [x] Android и модель MVC
+    - [x] Жизненный цикл активности
     - [ ] Отладка приложений Android
     - [ ] Вторая активность
     - [ ] Версии Android SDK и совместимость
@@ -50,7 +50,6 @@
     - [ ] Материальный дизайн
 
  - [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
- - [ ] [Онлайн квест по андроиду от яндекса](https://yandex.ru/droid-mission/)
  - [ ] Поковырять пару тройку репозиториев с разной архитектурой
 
  - Статейки
