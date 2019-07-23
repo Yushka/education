@@ -63,6 +63,7 @@
   - [Погружение в Jetpack Compose](https://habr.com/ru/company/otus/blog/458106/)
   - [Android Layout Tricks #3: Optimize with stubs](https://android-developers.googleblog.com/2009/03/android-layout-tricks-3-optimize-with.html)
   - [Функторы, аппликативные функторы и монады в картинках](https://habr.com/ru/post/183150/)
+  - [Как реализовать чистую архитектуру на Android?](https://habr.com/ru/post/459402/) - не понравилась статья
 
 ## В английском языке
 
