@@ -65,18 +65,20 @@
 - [ ] [Android architecture book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
 - [ ] [Введение в дизайн-мышление](https://stepik.org/course/48294/syllabus)
 - Udemy
-    - [ ] [The Complete Android App Development](https://www.udemy.com/android-tutorial-for-beginners/learn/v4/overview)
-    - [ ] [Android Developer's Portfolio Masterclass - Build real Apps](https://www.udemy.com/android-developers-portfolio-masterclass-build-7-apps/learn/v4/overview)
+  - [ ] [The Complete Android App Development](https://www.udemy.com/android-tutorial-for-beginners/learn/v4/overview)
+  - [ ] [Android Developer's Portfolio Masterclass - Build real Apps](https://www.udemy.com/android-developers-portfolio-masterclass-build-7-apps/learn/v4/overview)
 - Книги
-    - [ ] Окулов и Пестов: Динамическое программирование
+  - [ ] Окулов и Пестов: Динамическое программирование
+
 ## В японском языке
+
 - [ ] [Курс по японскому на openedu.ru](https://courses.openedu.ru/courses/course-v1:spbu+JPLANG+fall_2018/info)
 - [ ] Повторить несколько первых уроков из みんなの日本語 и доделать несделанные раньше задания
+
 ## В английском языке
+
 ## Общее развитие
-- [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) Долго искал занятие которое бы мозг от другой учебы разгрузило. Попробую рисование.
-  - [ ] Introduction To Digital Coloring
-  - [ ] Intro to Perspective
+
 - [Anatomy and Figure Drawing for Beginners](https://www.udemy.com/anatomy-and-figure-drawing-for-games-and-comics/)
   - [ ] Welcome to Learning Anatomy
   - [ ] Basic Training
