@@ -44,6 +44,7 @@
 
 ## Рисование
 
+- [ ] [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design?specialization=graphic-design) - закинул сюда, хотя можно отнести и к навыкам полезным для разработки
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro)
   - [ ] All About Shapes
   - [ ] Organic Shapes
