@@ -2,7 +2,10 @@
 
 ## В программировании и CS
 
+- [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
+- [ ] 
 - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
+  - [ ] Android Architecture Components. Сохранение состояния Activity
   - [ ] Material Design, RecycleView, CoordinatorLayout
   - [ ] Работа с сетью. Retrofit2. Kotlin Coroutines Base
   - [ ] Обзор СУБД Room 
@@ -42,10 +45,20 @@
 - [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Поковырять пару тройку репозиториев с разной архитектурой
 
+
+## В английском языке
+
+- Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
+  - [ ] And the moon be still as bright
+  - [ ] The settlers
+  - [ ] ...
+
 ## Рисование
 
 - [ ] [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design?specialization=graphic-design) - закинул сюда, хотя можно отнести и к навыкам полезным для разработки
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro)
+  - [ ] All about Lines
+    - [ ] Соединять точки между собой в файлах из ресурсов курса
   - [ ] All About Shapes
   - [ ] Organic Shapes
   - [ ] Introduction

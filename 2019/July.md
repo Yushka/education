@@ -2,12 +2,9 @@
 
 ## В программировании и CS
 
-- [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
-
 - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
   - [x] Котлин
   - [x] Компоненты платформы Android. Жизненный цикл Activity
-  - [ ] Android Architecture Components. Сохранение состояния Activity
 
 - [ ] Андроид. Программирование для профессионалов. 3-е издание.
   - [x] Первое приложение
@@ -16,7 +13,7 @@
   - [x] Отладка приложений Android
   - [x] Вторая активность
   - [x] Версии Android SDK и совместимость
-  - [ ] UI-фрагменты и FragmentManager
+  - [x] UI-фрагменты и FragmentManager
 
 - Статейки
   - [Understanding Android Pending Intents](http://codetheory.in/android-pending-intents/)
@@ -35,13 +32,6 @@
   - [Themes & styles](https://www.youtube.com/watch?v=jHQW1Rkij60)
   - [Переключение языка в мобильном приложении](https://www.youtube.com/watch?v=b428Ly7SrfI)
 
-## В английском языке
-
-- Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
-  - [ ] And the moon be still as bright
-  - [ ] The settlers
-  - [ ] ...
-
 ## Рисование
 
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro) - попытка номер 2
@@ -49,7 +39,6 @@
     - [x] 10 листов по примерно 50 ровных линий по разным направлениям
     - [x] 10 листов C линий
     - [x] 10 листов S линий
-    - [ ] 5 листов ровных линий, повторяя каждую линию по 10 раз (4 из 5)
-    - [ ] 5 листов C линий, повторяя каждую линию по 10 раз (3 из 5)
-    - [ ] 5 листов S линий, повторяя каждую линию по 10 раз (3 из 5)
-    - [ ] Соединять точки между собой в файлах из ресурсов курса
+    - [x] 5 листов ровных линий, повторяя каждую линию по 10 раз
+    - [x] 5 листов C линий, повторяя каждую линию по 10 раз
+    - [x] 5 листов S линий, повторяя каждую линию по 10 раз
