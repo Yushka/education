@@ -57,15 +57,11 @@
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro)
   - [x] All about Lines
     - [x] Соединять точки между собой в файлах из ресурсов курса
-  - [ ] All About Shapes
+  - [x] All About Shapes
     - [x] 3 листа упражнений с параллепипедами
-    - [ ] 3 листа цилиндров (2 из 3)
+    - [x] 3 листа цилиндров
   - [ ] Organic Shapes
-  - [ ] Introduction
-  - [ ] First Time Graphics Tablet Users
-  - [ ] All about Lines
-  - [ ] All About Shapes
-  - [ ] Organic Shapes
+    - [ ] 6 страниц упражнений
   - [ ] Drawing from Observation
   - [ ] Putting it Together
     - [ ] Draw better 1
