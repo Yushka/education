@@ -60,8 +60,8 @@
   - [x] All About Shapes
     - [x] 3 листа упражнений с параллепипедами
     - [x] 3 листа цилиндров
-  - [ ] Organic Shapes
-    - [ ] 6 страниц упражнений (3 из 6)
+  - [x] Organic Shapes
+    - [x] 6 страниц упражнений
   - [ ] Drawing from Observation
   - [ ] Putting it Together
     - [ ] Draw better 1
