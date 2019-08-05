@@ -4,7 +4,7 @@
 
 - [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
 - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
-  - [ ] Android Architecture Components. Сохранение состояния Activity
+  - [x] Android Architecture Components. Сохранение состояния Activity
   - [ ] Material Design, RecycleView, CoordinatorLayout
   - [ ] Работа с сетью. Retrofit2. Kotlin Coroutines Base
   - [ ] Обзор СУБД Room
