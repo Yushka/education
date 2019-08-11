@@ -62,9 +62,8 @@
     - [x] 3 листа цилиндров
   - [x] Organic Shapes
     - [x] 6 страниц упражнений
-  - [ ] Drawing from Observation
-    - [ ] 6 страниц фигур из простых форм (1 из 6)
-    - [ ] 2 фигуры из сложных линий и форм
+  - [x] Drawing from Observation
+    - [x] 5 страниц фигур из простых форм
   - [ ] Putting it Together
     - [ ] Draw better 1
     - [ ] Draw better 2
