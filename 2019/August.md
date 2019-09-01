@@ -2,14 +2,8 @@
 
 ## В программировании и CS
 
-- [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
 - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
   - [x] Android Architecture Components. Сохранение состояния Activity
-  - [ ] Material Design, RecycleView, CoordinatorLayout
-  - [ ] Работа с сетью. Retrofit2. Kotlin Coroutines Base
-  - [ ] Обзор СУБД Room
-  - [ ] Socket.io - Realtime клиент-серверное взаимодействие на веб-сокетах
-  - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей
 
 - [ ] Андроид. Программирование для профессионалов. 3-е издание.
   - [x] Вывод списков и RecycleView
@@ -20,49 +14,24 @@
   - [x] Панель инструментов
   - [x] Базы данных SQLite
   - [x] Неявные интенты
-  - [ ] Интенты при работе с камерой
-  - [ ] Двухпанельные интерфейсы
-  - [ ] Локализация
-  - [ ] Доступность
-  - [ ] Привязка данных и MVVM
-  - [ ] Модульное тестирование и воспроизведение звуков
-  - [ ] Стили и темы
-  - [ ] Графические объекты
-  - [ ] Подробнее об интентах и задачах
-  - [ ] HTTP и фоновые задачи
-  - [ ] Looper, Handler и HandlerThread
-  - [ ] Поиск
-  - [ ] Фоновые службы
-  - [ ] Широковещательные интенты
-  - [ ] Просмотр веб-страниц и WebView
-  - [ ] Пользовательские представления и события касания
-  - [ ] Анимация свойств
-  - [ ] Отслеживание местоположения устройства
-  - [ ] Карты
-  - [ ] Материальный дизайн
-
-- [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Поковырять пару тройку репозиториев с разной архитектурой
 
  - Записи докладов с конференций
   - [Виталий Вивчар - История оптимизации работы с RecyclerView](https://www.youtube.com/watch?v=mlal7UfaeI0)
+  - [Андрей Бреслав — Kotlin для Android: коротко и ясно](https://www.youtube.com/watch?v=VU_L2_XGQ9s)
 
  - Статейки
   - [Подготовка приложения к Android Q. Часть 1](https://habr.com/ru/company/otus/blog/463811/)
   - [Подготовка приложения к Android Q. Часть 2](https://habr.com/ru/company/otus/blog/464825/)
   - [Edge-to-edge в Android: делаем правильно](https://habr.com/ru/company/surfstudio/blog/464373/)
   - [Какое главное отличие Dependency Injection от Service Locator?](https://habr.com/ru/post/465395/)
-
-## В английском языке
-
-- Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
-  - [ ] And the moon be still as bright
-  - [ ] The settlers
-  - [ ] ...
+  - [Разработка под Android. Немного о быстрой работе со списками](https://teletype.in/@skillbranch/BJ3PXCQrS)
+  - [Material Design: на Луну и обратно](https://teletype.in/@skillbranch/BkWiAIWSr)
+  - [Material 2.0 для разработчиков. Краткий обзор новых компонентов](https://teletype.in/@skillbranch/r13feaXBS)
+  - [Советы для профессионального использования RecyclerView](https://teletype.in/@skillbranch/rJUuOAXHS)
+  - [Drag и Swipe в RecyclerView. Часть 1: ItemTouchHelper](https://teletype.in/@skillbranch/Skfv11VBB)
 
 ## Рисование
 
-- [ ] [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design?specialization=graphic-design) - закинул сюда, хотя можно отнести и к навыкам полезным для разработки
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro)
   - [x] All about Lines
     - [x] Соединять точки между собой в файлах из ресурсов курса
@@ -80,13 +49,3 @@
       - [x] 200 цилиндров
       - [x] 5 страниц цилиндров (вертикально стоящие в виде "клеток", вид сверху, 4 "клетки" на страницу)
       - [x] 200 цилиндров
-      - [ ] 5 страниц "шаров" (0/5)
-    - [ ] Draw better 2
-    - [ ] Draw better 3
-    - [ ] Draw better 4
-    - [ ] Draw better 5
-    - [ ] Draw better 6
-    - [ ] Draw better 7
-    - [ ] Draw better 8
-  - [ ] Introduction To Digital Coloring
-  - [ ] Intro to Perspective
