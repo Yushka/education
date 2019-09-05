@@ -35,6 +35,10 @@
 - [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Поковырять пару тройку репозиториев с разной архитектурой
 
+ - Статейки
+  - [Абстрактная фабрика на пальцах](https://habr.com/ru/post/465835/)
+  - [Реверс-инжиниринг (android)](http://developer.alexanderklimov.ru/android/theory/reverse-engineering.php)
+
 ## В английском языке
 
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
