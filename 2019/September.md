@@ -11,7 +11,7 @@
   - [ ] Финальная встреча. Подведение итогов Dev-Intensive. Объявление победителей
 
 - [ ] Андроид. Программирование для профессионалов. 3-е издание.
-  - [ ] Интенты при работе с камерой
+  - [x] Интенты при работе с камерой
   - [ ] Двухпанельные интерфейсы
   - [ ] Локализация
   - [ ] Доступность
@@ -38,6 +38,7 @@
  - Статейки
   - [Абстрактная фабрика на пальцах](https://habr.com/ru/post/465835/)
   - [Реверс-инжиниринг (android)](http://developer.alexanderklimov.ru/android/theory/reverse-engineering.php)
+  - [Уровень Android API, обратная и прямая совместимость](https://habr.com/ru/company/otus/blog/466367/)
 
 ## В английском языке
 
@@ -52,8 +53,8 @@
 
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro)
   - [ ] Putting it Together
-    - [ ] Draw better 1
-      - [ ] 5 страниц "шаров" (0/5)
+    - [x] Draw better 1
+      - [x] 5 страниц "шаров"
     - [ ] Draw better 2
     - [ ] Draw better 3
     - [ ] Draw better 4
