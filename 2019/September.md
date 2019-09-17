@@ -2,7 +2,7 @@
 
 ## В программировании и CS
 
-- [ ] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
+- [x] [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html#0)
 - [ ] [DEV–Intensive Android Kotlin от skillbranch](https://skill-branch.ru/dev-intensive-2019)
   - [ ] Material Design, RecycleView, CoordinatorLayout
   - [ ] Работа с сетью. Retrofit2. Kotlin Coroutines Base
@@ -56,6 +56,7 @@
     - [x] Draw better 1
       - [x] 5 страниц "шаров"
     - [ ] Draw better 2
+      - [ ] 800 S-линий с цилиндрами на них (20/400) 
     - [ ] Draw better 3
     - [ ] Draw better 4
     - [ ] Draw better 5
