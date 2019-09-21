@@ -43,7 +43,7 @@
 ## В английском языке
 
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
-  - [ ] And the moon be still as bright
+  - [x] And the moon be still as bright
   - [ ] The settlers
   - [ ] ...
 
@@ -56,7 +56,7 @@
     - [x] Draw better 1
       - [x] 5 страниц "шаров"
     - [ ] Draw better 2
-      - [ ] 800 S-линий с цилиндрами на них (50/400) 
+      - [ ] 800 S-линий с цилиндрами на них (100/400) 
     - [ ] Draw better 3
     - [ ] Draw better 4
     - [ ] Draw better 5
