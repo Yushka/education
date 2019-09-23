@@ -39,6 +39,7 @@
   - [Абстрактная фабрика на пальцах](https://habr.com/ru/post/465835/)
   - [Реверс-инжиниринг (android)](http://developer.alexanderklimov.ru/android/theory/reverse-engineering.php)
   - [Уровень Android API, обратная и прямая совместимость](https://habr.com/ru/company/otus/blog/466367/)
+  - [Внутренности JVM, Часть 1 — Загрузчик классов](https://habr.com/ru/company/otus/blog/468193/)
 
 ## В английском языке
 
