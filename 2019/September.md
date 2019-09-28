@@ -17,9 +17,9 @@
   - [x] Доступность
   - [x] Привязка данных и MVVM
   - [x] Модульное тестирование и воспроизведение звуков
-  - [ ] Стили и темы
-  - [ ] Графические объекты
-  - [ ] Подробнее об интентах и задачах
+  - [x] Стили и темы
+  - [x] Графические объекты
+  - [x] Подробнее об интентах и задачах
   - [ ] HTTP и фоновые задачи
   - [ ] Looper, Handler и HandlerThread
   - [ ] Поиск
@@ -42,6 +42,13 @@
   - [Внутренности JVM, Часть 1 — Загрузчик классов](https://habr.com/ru/company/otus/blog/468193/)
   - [Архитектура программного обеспечения переоценена, простой и понятный дизайн — недооценен](https://habr.com/ru/post/467997/)
   - [Что есть алгебраические типы?](https://proglib.io/p/chto-est-algebraicheskie-tipy-2019-09-15) - все равно не очень вкурил, нужно будет еще на эту тему почитать
+
+ - Полезные и не очень видео на ютубе
+   - [Gradle Tutorial часть 1 (Теория) - Gradle vs Maven vs Ant](https://www.youtube.com/watch?v=zb79qKRu8so)
+   - [Барух Садогурский, Кирилл Толкачев — Баттл инструментов для сборки — Maven vs Gradle](https://www.youtube.com/watch?v=6tnefehAmj0)
+   - [Евгений Борисов — Power of Gradle](https://www.youtube.com/watch?v=NZJTYPLb0iE)
+   - [Gradle для кроссплатформенной разработки на С++ — Илья Удалов](https://www.youtube.com/watch?v=uUwdfejsD3M)
+   - [Android serialization how to | Технострим](https://www.youtube.com/watch?v=QvcOF4787gA)
 
 ## В английском языке
 
