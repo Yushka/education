@@ -1,5 +1,11 @@
 # План на несколько месяцев вперед
+
+Нужно будет пересмотреть как найду время
+
 ## В программировании и CS
+
+- [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [ ] Поковырять пару тройку репозиториев с разной архитектурой
 
 - [ ] [Using MotionLayout to Animate Android Apps](https://codelabs.developers.google.com/codelabs/motion-layout/index.html#0)
 - [ ] [RxJava, RxAndroid Complete Beginner Course ](https://www.androidhive.info/RxJava/tutorials/)
@@ -78,6 +84,8 @@
 ## В английском языке
 
 ## Общее развитие
+
+- [ ] [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design?specialization=graphic-design) - закинул сюда, хотя можно отнести и к навыкам полезным для разработки
 
 - [Anatomy and Figure Drawing for Beginners](https://www.udemy.com/anatomy-and-figure-drawing-for-games-and-comics/)
   - [ ] Welcome to Learning Anatomy
