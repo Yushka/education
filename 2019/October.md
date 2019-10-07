@@ -42,6 +42,11 @@
   - [x] Карты
   - [x] Материальный дизайн
 
+ - [Сборка Android-приложения. Задачка со звёздочкой](https://habr.com/ru/company/funcorp/blog/469771/)
+ - [Неизменяемых коллекций в Java не будет – ни сейчас, ни когда-либо](https://habr.com/ru/company/piter/blog/470149/)
+ - [Рукоблудие вокруг ImmutableList в Java](https://habr.com/ru/post/470257/)
+ - [Stackless vs. Stackful Coroutines](https://blog.varunramesh.net/posts/stackless-vs-stackful-coroutines/)
+
 - Рей Бредбери. Марсианские хроники. Двуязычный вариант (на одной странице английский, на другой перевод)
   - [ ] The green morning
   - [ ] The locusts
@@ -49,14 +54,18 @@
 
 - [ ] [Digital Art for Beginners](https://www.udemy.com/digital-art-101-from-beginner-to-pro)
   - [ ] Putting it Together
-    - [ ] Draw better 3
+    - [x] Draw better 3
       - [x] 100 цепочек цилиндров соединенных шарами
     - [ ] Draw better 4
-      - [ ] 50 цепочек ящиков
-      - [ ] 50 цепочек шаров
+      - [x] 50 цепочек ящиков
+      - [ ] 50 цепочек шаров (16/50)
     - [ ] Draw better 5
     - [ ] Draw better 6
     - [ ] Draw better 7
     - [ ] Draw better 8
+    - [ ] Draw better 9
+    - [ ] Draw better 10
+    - [ ] Draw better 11
+    - [ ] Draw better 12
   - [ ] Introduction To Digital Coloring
   - [ ] Intro to Perspective
